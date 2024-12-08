@@ -10,7 +10,7 @@ Unleash your inner banshee with **ScreamScript**, the programming language that 
 ### **Usage**
 Running your ScreamScript masterpiece is simple:
 ```bash
-ScreamScript [source file path]
+ScreamScript.exe [source file path]
 ```  
 
 Still confused? Perfect. That means you’re ready to begin.
