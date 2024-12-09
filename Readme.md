@@ -31,8 +31,8 @@ The interpreter will throw tantrums so loud, you’ll wish you had followed them
 ### 📋 **Literals and Variables**
 - **All variables are integers.** Fancy data types are for cowards.
 - **Numeric literals must be screamed into existence:**
-  - `AaA` for positive numbers (joyful screams).
-  - `Aaa` for negative numbers (anguished wails).
+  - `AaA` for positive numbers (joyful screams, read as capital letters).
+  - `Aaa` for negative numbers (anguished wails, red as lowercase letters).
 
 #### **Variable Names**
 - Must start with `AAAghA` to announce their arrival dramatically.
@@ -56,20 +56,20 @@ The interpreter will throw tantrums so loud, you’ll wish you had followed them
   ```  
   AAAA! [variable]!  
   ```  
-  Example: `AAAA AAAghAaa!`
+  Example: `AAAA! AAAghAaa!`
 
 #### Output
 - **Print a variable as text:**
   ```  
   AAAAA! [variable]!  
   ```  
-  Example: `AAAAA AAAghAaa!`
+  Example: `AAAAA! AAAghAaa!`
 
 - **Print as raw numbers:**
   ```  
   AAaAA! [variable]!  
   ```  
-  Example: `AAaAA AAAghAaa!`
+  Example: `AAaAA! AAAghAaa!`
 
 Break the rules, and the interpreter *will* make you regret it.
 
